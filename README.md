@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td><b>대상학년</b></td><td>1학년</td>
-    <td><b>이수구분</b></td><td>전공기초</td>
+    <td><b>이수구분</b></td><td>전공기초<sup><a href="#footnote-1" id="ref-1">[1]</a></sup></td>
   </tr>
   <tr>
     <td><b>과목유형</b></td><td>이론강의</td>
@@ -30,7 +30,9 @@
     <td><b>취득평점</b></td><td>A+(4.5)</td>
   </tr>
 </table>
-
+<p id="footnote-1">
+  <a href="#ref-1">[1]</a> 성적증명서 상 이수구분: 전공(소프트웨어대학 소프트웨어학부)
+</p>
 
 ## 파일 소개
 ```

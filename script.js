@@ -24,9 +24,9 @@ const snsDict = {
 
 /** mail 안내에서 사용하는 이메일 주소 */
 const mailDict = {
-    cau: 'nsun527@cau.ac.kr',
-    rr: 'karu.rress@outlook.com',
-    gmail: 'nsun5274@gmail.com',
+    cau: '*******@cau.ac.kr',
+    rr: '***********@outlook.com',
+    gmail: '*********@gmail.com',
 };
 
 
